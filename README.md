@@ -6,7 +6,7 @@ ___
 ___
 ### **PROYECTO:** *Montacarga.*
 ___
-![Diagrama esquemático](arduino.png)
+![Diagrama esquemático](montacarga.png)
 ___
 ### **DESCRIPCIÓN**
 ___
